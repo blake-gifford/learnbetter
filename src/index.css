@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav {
+  margin-left: 50px;
+}
+
+.dashboard-wrapper {
+  margin-top: 3%;
+}
+
+.search-bar-div {
+  margin: auto;
+  margin-top: 2%;
+  max-width: 25%;
+}
+
+.nav-tab-links {
+  color: black;
+  padding: 1.5%;
+}
